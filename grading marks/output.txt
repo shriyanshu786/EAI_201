@@ -1,0 +1,30 @@
+Enter name of student 1: ab
+Enter marks in Math (0-100): 23
+Enter marks in Science (0-100): 45
+Enter marks in English (0-100): 66
+
+Enter name of student 2: bg
+Enter marks in Math (0-100): 55
+Enter marks in Science (0-100): 6
+Enter marks in English (0-100): 45
+
+Enter name of student 3: kj
+Enter marks in Math (0-100): 44
+Enter marks in Science (0-100): 56
+Enter marks in English (0-100): 66
+
+Student: ab
+Math: 23 Science: 45 English: 66
+Total: 134
+----------
+
+Student: bg
+Math: 55 Science: 6 English: 45
+Total: 106
+----------
+
+Student: kj
+Math: 44 Science: 56 English: 66
+Total: 166
+----------
+Topper is kj with total 166
